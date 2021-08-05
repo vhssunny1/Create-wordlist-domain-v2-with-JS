@@ -2,7 +2,7 @@
 
 BB - tools
 
-Very raw development and but works for need of hour.
+Very raw development but works for need of hour.
 
 process -
 collect domains from wayback and github-endpoints
