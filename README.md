@@ -43,4 +43,4 @@ Note - please use domain name as target.com instead of http/https:target.com
 
 To do -
 
-collect endpoint and folders from JS files.
+collect endpoints and folders from JS files.
